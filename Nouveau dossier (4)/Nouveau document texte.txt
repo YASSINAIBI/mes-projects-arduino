@@ -1,0 +1,9 @@
+https://electronicshobbyists.com/rfid-basics-and-rfid-module-interfacing-with-arduino/
+
+Card UID: A0 FF E8 73	tag
+
+25 C7 DC 2B	card
+
+A0 FF E8 73
+
+25 C7 DC 2B
